@@ -2,3 +2,5 @@ amora
 abacate
 banana
 maça
+melão
+melancia
